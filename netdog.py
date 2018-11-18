@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-####### netdog v.2 RS - 23/01/17
+####### netdog v.2 @x_Freed0m - 23/01/17
 
 import sys
 import socket
